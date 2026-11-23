@@ -1,3 +1,5 @@
+package SimpleConditions;
+
 import java.util.Scanner;
 
 public class postiveornegativenumber {
